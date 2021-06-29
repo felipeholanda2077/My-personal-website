@@ -1,12 +1,14 @@
-# 👨🏻‍💻 Sobre o Projeto
-
-<h4>Site pessoal feito para poder descobrir um pouco mais sobre mim.</h4>
-
 <p align="center">
    <a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
       <img alt="Felipe Holanda" src="https://img.shields.io/badge/-Felipe Holanda-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
 </p>
+
+# 👨🏻‍💻 Sobre o Projeto
+
+<h4>Site pessoal feito para poder descobrir um pouco mais sobre mim.</h4>
+
+<br>
 
 <p aling="center">Esse projeto...</p>
 <a href="#sobre">Sobre</a> •
