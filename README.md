@@ -25,7 +25,7 @@
    <img alt="Readme" title="Readme" src="PaginaREADME.png" />
 </h1>
 
-  ### 🚀 Tecnologias
+  ### Tecnologias 🚀
 
   As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -38,6 +38,8 @@
 
   - [**VS CODE**](https://code.visualstudio.com/)
   - [**BOOTSTRAP**](https://getbootstrap.com/)
+
 <br>
+
   Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)
 
