@@ -4,7 +4,7 @@
    </a>
 </p>
 
-# 👨🏻‍💻 Sobre o Projeto
+# Sobre o Projeto
 
 <h4>Site pessoal feito para poder descobrir um pouco mais sobre mim.</h4>
 
