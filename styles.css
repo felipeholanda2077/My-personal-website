@@ -415,7 +415,8 @@ img{
     margin-right: var(--mb-4);
   }
   .home__img{
-    width: 457px;
+    position:-ms-page;
+    width: 450px;
     bottom: 15%;
   }
 
@@ -448,4 +449,12 @@ img{
   .home__img{
     right: 10%;
   }
+}
+
+.badge-base__link {
+  align-items: center;
+  align-self: center;
+  position: relative;
+  right: 100px;
+  left: 100px;
 }
