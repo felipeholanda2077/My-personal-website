@@ -11,9 +11,9 @@
 <br>
 
 <p align="center">Esse projeto...</p>
-<p align="center"><a href="#sobre">Sobre</a> • </p>
-<p align="center"><a href="#Imagem">Imagem</a> • </p>
-<p align="center"><a href="#Tecnologias">Tecnologias</a> • </p>
+<p align="center"><a href="#sobre">Sobre</a> • 
+<p align="center"><a href="#Imagem">Imagem</a> • 
+<p align="center"><a href="#Tecnologias">Tecnologias</a> • 
 <p align="center"><a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
