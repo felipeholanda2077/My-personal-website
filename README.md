@@ -9,13 +9,12 @@
 <h4 align="center">Site pessoal feito para poder descobrir um pouco mais sobre mim.</h4>
 
 <br>
-<style align="center">
+
 <p align="center">Esse projeto...</p>
 <a href="#sobre">Sobre</a> •
 <a href="#Imagem">Imagem</a> •
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
-  </style>
 
 <br>
 <br>
