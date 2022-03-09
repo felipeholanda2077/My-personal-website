@@ -6,15 +6,16 @@
 
 <h1 align="center">Sobre o Projeto</h1>
 
-<h4>Site pessoal feito para poder descobrir um pouco mais sobre mim.</h4>
+<h4 align="center">Site pessoal feito para poder descobrir um pouco mais sobre mim.</h4>
 
 <br>
-
-<p aling="center">Esse projeto...</p>
+<style align="center">
+<p align="center">Esse projeto...</p>
 <a href="#sobre">Sobre</a> •
 <a href="#Imagem">Imagem</a> •
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
+  </style>
 
 <br>
 <br>
