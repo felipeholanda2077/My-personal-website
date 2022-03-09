@@ -12,9 +12,9 @@
 
 <p align="center">Esse projeto...</p>
 <p align="center"><a href="#sobre">Sobre</a> • 
-<p align="center"><a href="#Imagem">Imagem</a> • 
-<p align="center"><a href="#Tecnologias">Tecnologias</a> • 
-<p align="center"><a href="#Ferramentas">Ferramentas</a></p>
+<a href="#Imagem">Imagem</a> • 
+<a href="#Tecnologias">Tecnologias</a> • 
+<a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
 <br>
