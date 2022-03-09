@@ -25,9 +25,9 @@
    <img alt="Readme" title="Readme" src="PaginaREADME.png" />
 </h1>
 
-  ### Tecnologias 🚀
+  <h2 align="center">Tecnologias 🚀 </h2>
 
-  As seguintes ferramentas foram usadas na construção do projeto:
+  <p align="center">As seguintes ferramentas foram usadas na construção do projeto:</p>
 
   - [x] **HTML**
   - [x] **CSS**
