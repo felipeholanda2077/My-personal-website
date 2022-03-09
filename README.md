@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">Esse projeto...</p>
-<a href="#sobre">Sobre</a> •
+<p align="center"><a href="#sobre">Sobre</a></p> •
 <a href="#Imagem">Imagem</a> •
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
