@@ -40,7 +40,7 @@
   - [x] **JS**
   - [x] **SCSS**
 
-  #### Ferramentas
+  ### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
   - [**BOOTSTRAP**](https://getbootstrap.com/)
