@@ -10,6 +10,8 @@
 <a href="#Tecnologias--">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
 
+<br><br>
+
 <h1 align="center">Sobre o Projeto</h1>
 
 <h4 align="center">Site pessoal feito para poder descobrir um pouco mais sobre mim. Como repositorio de dados pessoais.</h4>
