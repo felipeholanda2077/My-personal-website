@@ -4,6 +4,12 @@
    </a>
 </p>
 
+<p align="center">ÍNDICE...</p>
+<p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
+<a href="#Imagem">Imagem</a> • 
+<a href="#Tecnologias--">Tecnologias</a> • 
+<a href="#Ferramentas">Ferramentas</a></p>
+
 <h1 align="center">Sobre o Projeto</h1>
 
 <h4 align="center">Site pessoal feito para poder descobrir um pouco mais sobre mim. Como repositorio de dados pessoais.</h4>
@@ -13,14 +19,6 @@
 <h4 align="center">Link para ser acessado abaixo</h4>
 
 <p align="center">Link do WebSite: https://felipeholanda.000webhostapp.com/ </p>
-<br>
-<br>
-
-<p align="center">ÍNDICE...</p>
-<p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
-<a href="#Imagem">Imagem</a> • 
-<a href="#Tecnologias--">Tecnologias</a> • 
-<a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
 
